@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
+   Navigate the World with Ease: Your Ultimate Travel Companion! 
   Addressing the unstructured nature of India's tourism industry, our app offers a transformative solution, guiding travelers through a seamlessly organized experience,ensuring every journey is a discovery.
-  Navigate the World with Ease: Your Ultimate Travel Companion! 
 </p>
 
 ## Introduction
