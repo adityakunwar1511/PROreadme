@@ -19,9 +19,7 @@
 
 <h5>Watch the Video</h5>
    
- <iframe height="480" width="500" 
-            src="https://www.youtube.com/embed/il_t1WVLNxk"> 
-</iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E6NO0rgFub4/0.jpg)](https://www.youtube.com/watch?v=E6NO0rgFub4)
 
 
 
