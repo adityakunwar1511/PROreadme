@@ -18,7 +18,10 @@
 ## Preview & Explanation
 
 <h5>Watch the Video</h5>
-https://www.youtube.com/watch?v=G3Cytlicv8Y
+<a href="https://www.youtube.com/watch?v=G3Cytlicv8Y">
+<img src="https://github.com/adityakunwar1511/PROreadme/blob/main/Screenshot%202024-04-07%20173144.png" alt="W3Schools.com" width="100" height="132">
+</a>
+
 
 ## Usage
 
