@@ -1,21 +1,12 @@
-<h1 align="center">Project Name</h1>
+<h1 align="center">ExploreEase</h1>
 
 <p align="center">
   <img src="https://github.com/adityakunwar1511/PROreadme/blob/main/nit%20logo.jpg" alt="Logo" width="80" height="80">
 </p>
 
 <p align="center">
-  Brief description of the project.
+  Your Ultimate Travel Sathi
 </p>
-
-<p align="center">
-  <a href="#introduction">Introduction</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
-</p>
-
 ---
 
 ## Introduction
