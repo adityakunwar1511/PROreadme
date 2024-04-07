@@ -1,7 +1,7 @@
 <h1 align="center">ExploreEase</h1>
 
 <p align="center">
-  <img src="https://github.com/adityakunwar1511/PROreadme/blob/main/nit%20logo.jpg" alt="Logo" width="80" height="80">
+  <img src="https://github.com/adityakunwar1511/PROreadme/blob/main/Screenshot%202024-04-07%20173144.png" alt="Logo" width="80" height="80">
 </p>
 
 <p align="center">
