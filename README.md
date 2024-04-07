@@ -13,7 +13,7 @@
 ## Installation
 
 <h3>Download App</h3>
-<img src="https://github.com/adityakunwar1511/PROreadme/blob/main/and.png" width="20 height="20>
+<img src="https://github.com/adityakunwar1511/PROreadme/blob/main/and.png" width="20 height="20> For Android
 ## Preview & Explanation
 
 <h5>Watch the Video</h5>
