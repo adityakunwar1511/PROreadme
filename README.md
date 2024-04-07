@@ -18,8 +18,6 @@
 ## Preview & Explanation
 
 <h5>Watch the Video</h5>
-   
-## Video
 https://www.youtube.com/watch?v=G3Cytlicv8Y
 
 ## Usage
