@@ -19,9 +19,8 @@
 
 <h5>Watch the Video</h5>
    
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E6NO0rgFub4/0.jpg)](https://www.youtube.com/watch?v=E6NO0rgFub4)
-
-
+## Video
+https://www.youtube.com/watch?v=G3Cytlicv8Y
 
 ## Usage
 
