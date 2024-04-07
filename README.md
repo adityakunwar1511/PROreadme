@@ -12,7 +12,7 @@
 
 ## Preview & Explanation
 
-<h2>Watch the Video</h2>
+<h5>Watch the Video</h5>
     <iframe width="560" height="315" src="https://www.youtube.com/watch?v=E6NO0rgFub4" frameborder="0" allowfullscreen></iframe>
 
 ## Installation
