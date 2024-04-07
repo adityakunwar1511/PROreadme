@@ -10,9 +10,10 @@
   Addressing the unstructured nature of India's tourism industry, our app offers a transformative solution, guiding travelers through a seamlessly organized experience, ensuring every journey is a discovery.
 </p>
 
-## Introduction
+## Preview & Explanation
 
-Provide a brief introduction to the project here.
+<h2>Watch the Video</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=E6NO0rgFub4" frameborder="0" allowfullscreen></iframe>
 
 ## Installation
 
