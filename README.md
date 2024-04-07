@@ -10,14 +10,16 @@
   Addressing the unstructured nature of India's tourism industry, our app offers a transformative solution, guiding travelers through a seamlessly organized experience, ensuring every journey is a discovery.
 </p>
 
+## Installation
+
+<h3>Download App</h3>
+<img src=""
 ## Preview & Explanation
 
 <h5>Watch the Video</h5>
     <iframe src="https://www.youtube.com/watch?v=E6NO0rgFub4" width="560" height="315" allowfullscreen></iframe>
 
-## Installation
 
-Include installation instructions here.
 
 ## Usage
 
